@@ -1,0 +1,24 @@
+#include "xparameters.h"
+#include "xil_io.h"
+#include  "stdbool.h"
+
+#define CCD_REG 0x44a00000
+
+int main(){
+    int num, i, initialDelay;
+    initialDelay = 0;
+    Xil_Out32(CCD_REG, 0x0); //write the register to 0
+    bool running = 1;
+    while(running){
+        if(initialDelay = 100)
+             //num = 0;
+        	Xil_Out32(CCD_REG, 0x1);
+        else if (initialDelay = 100000)
+        {
+        	Xil_Out32(CCD_REG, 0x0);
+        	running = 0;
+        }
+        for(i=0;i<30; i++);
+        num++;
+    }
+}
