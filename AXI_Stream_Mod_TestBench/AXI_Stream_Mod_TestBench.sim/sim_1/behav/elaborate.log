@@ -1,0 +1,22 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto 9d81d7f753e34d08b93dc2daea7bd0d5 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot sample_gen_testebench_behav xil_defaultlib.sample_gen_testebench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package unisim.vcomponents
+Compiling package ieee.numeric_std
+Compiling architecture implementation of entity xil_defaultlib.AXI_counterGenerator_v1_0_M_AXIS [axi_countergenerator_v1_0_m_axis...]
+Compiling architecture arch_imp of entity xil_defaultlib.AXI_counterGenerator_v1_0 [axi_countergenerator_v1_0_defaul...]
+Compiling architecture design_1_axi_countergenerator_0_0_arch of entity xil_defaultlib.design_1_AXI_counterGenerator_0_0 [design_1_axi_countergenerator_0_...]
+Compiling architecture structure of entity xil_defaultlib.design_1 [design_1_default]
+Compiling architecture structure of entity xil_defaultlib.design_1_wrapper [design_1_wrapper_default]
+Compiling module xil_defaultlib.sample_gen_testebench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sample_gen_testebench_behav

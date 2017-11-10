@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.srcs/sim_1/new/sample_gen_testebench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sample_gen_testebench
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.srcs/sim_1/new/sample_gen_testebench.v:57]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.ip_user_files/bd/design_1/ipshared/66fe/hdl/AXI_counterGenerator_v1_0_M_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AXI_counterGenerator_v1_0_M_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.ip_user_files/bd/design_1/ipshared/66fe/hdl/AXI_counterGenerator_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AXI_counterGenerator_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.ip_user_files/bd/design_1/ip/design_1_AXI_counterGenerator_0_0/sim/design_1_AXI_counterGenerator_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_AXI_counterGenerator_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.ip_user_files/bd/design_1/hdl/design_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_wrapper

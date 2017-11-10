@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# 
+# Start of session at: Fri Nov 10 22:22:06 2017
+# Process ID: 6964
+# Current directory: C:/SVN/FPGA/AXI_Stream_counter_V1/AXI_Stream_counter_V1.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/SVN/FPGA/AXI_Stream_counter_V1/AXI_Stream_counter_V1.sdk/webtalk/webtalk.log
+# Journal file: C:/SVN/FPGA/AXI_Stream_counter_V1/AXI_Stream_counter_V1.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

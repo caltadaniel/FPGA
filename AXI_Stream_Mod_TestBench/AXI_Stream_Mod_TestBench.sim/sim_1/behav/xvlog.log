@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.srcs/sim_1/new/sample_gen_testebench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sample_gen_testebench
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.srcs/sim_1/new/sample_gen_testebench.v:57]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/SVN/FPGA/AXI_Stream_Mod_TestBench/AXI_Stream_Mod_TestBench.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
