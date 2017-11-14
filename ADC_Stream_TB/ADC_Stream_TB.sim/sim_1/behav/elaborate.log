@@ -1,0 +1,25 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto a426f2914be94266a544728fae99882b --debug typical --relax --mt 2 -L xil_defaultlib -L secureip -L xpm --snapshot tb1_behav xil_defaultlib.tb1 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package unisim.vcomponents
+Compiling package ieee.numeric_std
+Compiling architecture implementation of entity xil_defaultlib.ADC_AXI_INTERFACE_v1_0_M00_AXIS [\ADC_AXI_INTERFACE_v1_0_M00_AXIS...]
+Compiling architecture arch_imp of entity xil_defaultlib.ADC_AXI_INTERFACE_v1_0_S00_AXI [adc_axi_interface_v1_0_s00_axi_d...]
+Compiling architecture arch_imp of entity xil_defaultlib.ADC_AXI_INTERFACE_v1_0 [\ADC_AXI_INTERFACE_v1_0(parallel...]
+Compiling architecture design_1_adc_axi_interface_0_0_arch of entity xil_defaultlib.design_1_ADC_AXI_INTERFACE_0_0 [design_1_adc_axi_interface_0_0_d...]
+Compiling architecture arch_imp of entity xil_defaultlib.ADC_Simulator_v1_0_S00_AXI [adc_simulator_v1_0_s00_axi_defau...]
+Compiling architecture arch_imp of entity xil_defaultlib.ADC_Simulator_v1_0 [adc_simulator_v1_0_default]
+Compiling architecture design_1_adc_simulator_0_0_arch of entity xil_defaultlib.design_1_ADC_Simulator_0_0 [design_1_adc_simulator_0_0_defau...]
+Compiling architecture structure of entity xil_defaultlib.design_1 [design_1_default]
+Compiling architecture structure of entity xil_defaultlib.design_1_wrapper [design_1_wrapper_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb1
+Built simulation snapshot tb1_behav

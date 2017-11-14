@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER ADC_Simulator
+	OPTION supported_peripherals = (ADC_Simulator);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = ADC_Simulator;
+END DRIVER

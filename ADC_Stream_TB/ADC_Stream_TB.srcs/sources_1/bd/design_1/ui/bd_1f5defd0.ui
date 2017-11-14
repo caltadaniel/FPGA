@@ -1,0 +1,29 @@
+{
+   guistr: "# # String gsaved with Nlview 6.6.8  2016-12-21 bk=1.3817 VDI=40 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port s00_axi_aresetn -pg 1 -y 380 -defaultsOSRD
+preplace port ADC_CLK -pg 1 -y 20 -defaultsOSRD
+preplace port EN -pg 1 -y 40 -defaultsOSRD
+preplace port m00_axis_aresetn -pg 1 -y 170 -defaultsOSRD
+preplace port RST -pg 1 -y 130 -defaultsOSRD
+preplace port TRIG -pg 1 -y 220 -defaultsOSRD
+preplace port M00_AXIS -pg 1 -y 290 -defaultsOSRD
+preplace port m00_axis_aclk -pg 1 -y 320 -defaultsOSRD
+preplace port s00_axi_aclk -pg 1 -y 150 -defaultsOSRD
+preplace portBus DATA_OUT -pg 1 -y 120 -defaultsOSRD
+preplace inst ADC_AXI_INTERFACE_0 -pg 1 -lvl 2 -y 290 -defaultsOSRD
+preplace inst ADC_Simulator_0 -pg 1 -lvl 1 -y 120 -defaultsOSRD
+preplace netloc m00_axis_aclk_1 1 0 2 NJ 320 NJ
+preplace netloc TRIG_1 1 0 2 NJ 220 NJ
+preplace netloc ADC_CLK_1 1 0 2 20 10 330J
+preplace netloc ADC_Simulator_0_DATA_OUT 1 1 2 340 120 NJ
+preplace netloc EN_1 1 0 2 40 20 320J
+preplace netloc ADC_AXI_INTERFACE_0_M00_AXIS 1 2 1 NJ
+preplace netloc s00_axi_aclk_1 1 0 2 30 360 NJ
+preplace netloc s00_axi_aresetn_1 1 0 2 NJ 380 NJ
+preplace netloc m00_axis_aresetn_1 1 0 2 20 340 NJ
+preplace netloc RST_1 1 0 2 40 260 NJ
+levelinfo -pg 1 0 180 490 660 -top 0 -bot 430
+",
+}
+0

@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ipshared/a5e1/hdl/ADC_AXI_INTERFACE_v1_0_M00_AXIS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ADC_AXI_INTERFACE_v1_0_M00_AXIS
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ipshared/a5e1/hdl/ADC_AXI_INTERFACE_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ADC_AXI_INTERFACE_v1_0_S00_AXI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ipshared/a5e1/hdl/ADC_AXI_INTERFACE_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ADC_AXI_INTERFACE_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ip/design_1_ADC_AXI_INTERFACE_0_0/sim/design_1_ADC_AXI_INTERFACE_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_ADC_AXI_INTERFACE_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ipshared/dbcb/hdl/ADC_Simulator_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ADC_Simulator_v1_0_S00_AXI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ipshared/dbcb/hdl/ADC_Simulator_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ADC_Simulator_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/ip/design_1_ADC_Simulator_0_0/sim/design_1_ADC_Simulator_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_ADC_Simulator_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.ip_user_files/bd/design_1/hdl/design_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity design_1_wrapper
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/SVN/FPGA/ADC_Stream_TB/ADC_Stream_TB.srcs/sim_1/new/tb1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb1
